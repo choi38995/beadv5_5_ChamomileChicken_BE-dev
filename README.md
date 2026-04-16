@@ -68,6 +68,8 @@
 ## 기획서 정리
 https://www.notion.so/5-3445219e8c9a8005b6e9e358e9866e12?source=copy_link
 
+## 인프라 설계 고민 (K3s)
+https://www.notion.so/5-K3s-3445219e8c9a805da3abc0942aa16133?source=copy_link
 
 
 
